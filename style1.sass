@@ -1,0 +1,20 @@
+.flex-bet
+  display: flex
+  justify-content: space-between
+
+@mixin txt-style ($fs, $lh, $fw)
+  font-size: $fs
+  line-height: $lh
+  font-weight: $fw
+
+.filter-top-product
+  @extend .flex-bet
+  
+
+.header-filter-product
+  @include txt-style(14px, 20px, 700)
+  text-transform: uppercase
+  color: #6f6e6e
+
+
+

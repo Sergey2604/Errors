@@ -1,0 +1,14 @@
+.flex-bet, .filter-top-product {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-filter-product {
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #6f6e6e;
+}
+
+/*# sourceMappingURL=style1.css.map */
