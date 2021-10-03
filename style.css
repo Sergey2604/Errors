@@ -1038,7 +1038,9 @@ figcaption {
     font-weight: 400;
     color: #6f6e6e;
 }
-
+.a-details-product:hover {
+    color: #ef5b70;
+}
 .a-details-product:first-of-type {
     margin-top: 22px;
 }
